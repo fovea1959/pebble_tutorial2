@@ -1,0 +1,30 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "fovea1959-pebble@yahoo.com",
+    "longName": "Tutorial2",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_VGA_48",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "Tutorial2",
+    "uuid": "3534e47b-7460-44e5-b1c9-f03219e7b49d",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
